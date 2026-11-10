@@ -35,6 +35,6 @@ A React-based shoe shopping web application.
 A Python-based project exploring YouTube API integration, publishing workflows, scheduling, and comment management.
 
 - Technologies: Python, YouTube Data API, Google OAuth 2.0
-- Repository: https://github
+-[ Repository: https://github](https://github.com/pritam689/youtube-automation-showcase)
 
 - GitHub:(https://github.com/pritam689/youtube-automation-showcase)
