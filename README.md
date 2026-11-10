@@ -36,3 +36,5 @@ A Python-based project exploring YouTube API integration, publishing workflows, 
 
 - Technologies: Python, YouTube Data API, Google OAuth 2.0
 - Repository: https://github
+
+- GitHub: [@pritam689](https://github.com/pritam689)
